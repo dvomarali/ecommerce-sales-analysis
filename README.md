@@ -1,22 +1,21 @@
 # E-Commerce Sales Analysis
 
-This project analyzes e-commerce sales data using Python and Pandas.
+This project analyzes e-commerce sales data using Python and Power BI.
 
 ## Tools Used
-- Python
-- Pandas
-- Matplotlib
+- Python (Pandas, Matplotlib)
 - Jupyter Notebook
+- Power BI
 
 ## Analysis Performed
 - Total sales analysis
 - Sales by category
-- Top selling products
 - Regional sales performance
 - Monthly sales trends
 - Profit margin analysis
 
-## Key Insights
-- Certain product categories generate higher revenue
-- Sales vary across regions
-- Monthly trends reveal potential seasonal demand
+## Dashboard
+The Power BI dashboard visualizes sales performance across regions, categories, and time.
+
+## Dataset
+E-commerce transactional sales data.
